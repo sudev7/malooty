@@ -19,7 +19,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is sudev pv*
-*Creator number : wa.me/919946432377?text=Hi%20sudev%20pv.%20*
+*Creator number : wa.me/918921170503?text=Hi%20sudev%20pv.%20*
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
 *Githublink (Setup)  :    https://github.com/sudev7/malooty*
 *Audio commads :   https://github.com/sudev7/malooty/tree/master/uploads*
